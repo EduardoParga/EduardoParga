@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-### Meu nome é Eduardo, sou estudante de Análise e Desenvolvimento de Sistemas pelo Ibmec(unidade barra), atualmente estou no segundo periodo, tenho conhecimentos em desenvolvimento front end, Metodologia Ágil e algoritmos, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
+### Meu nome é Eduardo Parga, sou estudante de Análise e Desenvolvimento de Sistemas pelo Ibmec(unidade barra), atualmente estou no segundo periodo, tenho conhecimentos em desenvolvimento front end, Metodologia Ágil e algoritmos, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
 
 #### Estou aprendendo sobre:
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,react,cpp)](https://skillicons.dev)<br/>
