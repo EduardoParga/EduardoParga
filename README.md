@@ -18,7 +18,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-## ## https://www.linkedin.com/in/eduardo-ferreira-parga-882036321/
+ ## https://www.linkedin.com/in/eduardo-ferreira-parga-882036321/
 
 <div align="center">
   <a href="https://github.com/EduardoParga/EduardoParga">
